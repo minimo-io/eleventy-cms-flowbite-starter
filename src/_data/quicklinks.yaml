@@ -1,14 +1,17 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+    - title: DecapCMS
+      url: "https://decapcms.org/"
+      desc: Open source content management for your Git workflow
+    - title: Eleventy
+      url: "https://www.11ty.dev/"
+      desc: Eleventy is a simpler static site generator.
+    - title: Alpine.js
+      url: "https://alpinejs.dev/"
+      desc: A minimal framework for composing JavaScript behavior in your markup.
+    - title: Tailwind CSS
+      url: "https://tailwindcss.com/"
+      desc: A utility-first CSS framework for rapidly building custom designs.
+    - title: Flowbite
+      url: "https://flowbite.com/"
+      desc: Build websites even faster with components on top of Tailwind CSS.
