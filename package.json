@@ -11,7 +11,7 @@
         "@11ty/eleventy": "^2.0.1",
         "@tailwindcss/typography": "^0.5.13",
         "alpinejs": "^3.14.1",
-        "browser-sync": "^2.27.7",
+        "browser-sync": "^3.0.2",
         "cross-env": "^7.0.3",
         "cssnano": "^5.0.15",
         "js-yaml": "^4.1.0",
