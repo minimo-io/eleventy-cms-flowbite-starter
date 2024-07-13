@@ -2,7 +2,7 @@
 
 Starter template for **Eleventy** with **DecapCMS**, using **AlpineJS**, **Tailwind** and **Flowbite** and hosted in **Netlify**.
 
-Developed by [@minimo-io](https://minimo.io) based on the outdated [Neat-Starter](https://github.com/surjithctly/neat-starter) by [surjithctly](https://surjithctly.in/)
+Developed by [@minimo-io](https://minimo.io) based on the outdated [Neat-Starter](https://github.com/surjithctly/neat-starter) by [@surjithctly](https://surjithctly.in/)
 
 Many things where modified from the original starter. Among them I moved from NetlifyCMS (deprecated) to DecapCMS. Updated 11ty libraries and added the Flowbite components library to the boilerplate.
 
@@ -23,7 +23,7 @@ Many things where modified from the original starter. Among them I moved from Ne
 
 ## Getting Started
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/surjithctly/neat-starter&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" /></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/minimo-io/eleventy-cms-flowbite-starter&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" /></a>
 
 ## To Do
 
