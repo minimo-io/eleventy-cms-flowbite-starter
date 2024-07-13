@@ -1,6 +1,8 @@
 # Neat Starter
 
-Starter Template for **N**etlify CMS, **E**leventy, **A**lpine JS & **T**ailwind CSS
+Starter Template for **Decap CMS**, **Eleventy**, **AlpineJS** & **Tailwind** CSS with Flowbite, by [@minimo-io](https://minimo.io) based on the [Neat-Starter](https://github.com/surjithctly/neat-starter) by [surjithctly](https://surjithctly.in/)
+
+Many modifications where done. Among them I moved from NetlifyCMS to DecapCMS. Updated 11ty libraries and added Flowbite components library to the boilerplate.
 
 ## Live Demo
 
@@ -8,20 +10,26 @@ Starter Template for **N**etlify CMS, **E**leventy, **A**lpine JS & **T**ailwind
 
 ### Technologies used:
 
-- [Netlify CMS](https://www.netlifycms.org/)
-- [Eleventy](https://www.11ty.dev/)
-- [Alpine.js](https://github.com/alpinejs/alpine)
-- [Tailwind CSS](https://tailwindcss.com/)
+-   [Decap CMS](https://decapcms.org/) (Former NetlifyCMS)
+-   [Eleventy](https://www.11ty.dev/)
+-   [Alpine.js](https://github.com/alpinejs/alpine)
+-   [Tailwind CSS](https://tailwindcss.com/)
+-   [Flowbite](https://tailwindcss.com/) (Tailwind components library)
 
 | ![image](https://user-images.githubusercontent.com/1884712/93762662-a62e4700-fc2d-11ea-9b2c-fda9f503402b.png) |
 | ------------------------------------------------------------------------------------------------------------- |
-
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/surjithctly/neat-starter&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" /></a>
 
 ## Getting Started
 
 Detailed instructions are available in my blog. [Check it out](https://blog.surjithctly.in/neat-stack-create-a-static-website-with-netlify-cms-eleventy-alpinejs-and-tailwindcss)
+
+## To Do
+
+-   Add a different package for minification, maybe [minify-html](https://www.npmjs.com/package/@minify-html/) instead of the unmaintained html-minifier (commented)
+-   Add Flowbite component library
+-   Update Eleventy
 
 ### 1\. Clone this Repository
 
@@ -57,4 +65,5 @@ npm run start
 
 ## Author
 
+Nicolas Erramusoe ( [@minimo-io](https://minimo.io) )
 Surjith S M ( [@surjithctly](https://surjithctly.in/) )
