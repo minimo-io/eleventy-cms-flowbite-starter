@@ -1,6 +1,6 @@
 # Eleventy CMS Flowbite Starter
 
-Starter template for **Eleventy** with **DecapCMS**, using **AlpineJS**, **Tailwind** and **Flowbite** and hosted in **Netlify**.
+Starter template for **Eleventy** with **DecapCMS**, using **AlpineJS**, **Tailwind** and **Flowbite** and hosted at **Netlify**.
 
 Developed by [@minimo-io](https://minimo.io) based on the outdated [Neat-Starter](https://github.com/surjithctly/neat-starter) by [@surjithctly](https://surjithctly.in/).
 
