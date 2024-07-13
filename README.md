@@ -18,8 +18,8 @@ Many things where modified from the original starter. Among them I moved from Ne
 -   [Tailwind CSS](https://tailwindcss.com/)
 -   [Flowbite](https://tailwindcss.com/) (Tailwind components library)
 
-| ![image](https://imgur.com/a/KkdmsCa) |
-| ------------------------------------- |
+| ![image](https://i.imgur.com/TJMBL6g.png) |
+| ----------------------------------------- |
 
 ## Getting Started
 
