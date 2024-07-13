@@ -6,6 +6,8 @@ Developed by [@minimo-io](https://minimo.io) based on the outdated [Neat-Starter
 
 Many things where modified from the original starter. Among them I moved from NetlifyCMS (deprecated) to DecapCMS. Updated 11ty libraries and added the Flowbite components library to the boilerplate.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b13a125f-5801-4744-b481-50ba5bd5cdd0/deploy-status)](https://app.netlify.com/sites/eleventy-cms-flowbite-starter/deploys)
+
 ## Live Demo
 
 [https://eleventy-cms-flowbite-starter.netlify.app/](https://eleventy-cms-flowbite-starter.netlify.app/)
